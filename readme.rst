@@ -1,3 +1,12 @@
+ABSTRACT
+
+SAMSUL PAHMI TORIQ. Development of Geographic Information System as an Indicator of Macronutrient Distribution Levels at Oil Palm Plantations. Supervised by KUDANG BORO SEMINAR.
+Oil palm is one of the most popular agricultural commodities in Indonesia. This is indicated by the increasing average planting area of oil palm plantations in the recent years. The land expansion that occurs is not balanced with the proper management so that the productivity of Indonesia's average is relatively declining based on the productivity ratio of tons per land area. The purpose of this study is to analyze and design website-based of geographic information system. The system can be used for manages the storage media, visualization, and monitoring  the distribution of macronutrients (N, P, K, Mg, Ca, S) in oil palm plantations. This information is expected to help the users to manage plantation process. The information system in this study was built using the SDLC method. This method consists of several stages such as investigation, analysis, design, implementation, maintenance, and evaluation. The MATANUSA Prototype (Monitoring dan Analaisa Tebaran Nutrisi Sawit) website was built with an admin and user access. Multispectral images are processed and saved in GeoJSON format. GeoJSON data is useful as an input that received by the system. The output obtained from this system is the presentation of macronutrients geographical distribution in the form of thematic maps, tables, and pie charts. System accuracy are calculated using the Confusion matrix method. Based on these results, hexagon accuracy to classify nitrogen levels is 76.6%, phosphorus 63.3%, potassium 60%, magnesium 70%, calcium 60%, and sulfur 30%. Based on alpha testing with the black box test method, MATANUSA can work in accordance with the expected results.
+
+Keywords: GeoJSON, Intensification, Multispectral, SDLC 
+
+this project is curently online at http://nusama.com/
+
 ###################
 What is CodeIgniter
 ###################
